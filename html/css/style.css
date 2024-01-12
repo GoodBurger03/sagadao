@@ -1,14 +1,18 @@
 .header {
-  padding: 60px;
+  padding: 30px;
+  padding-top: 20px;
   text-align: center;
-  background: #1f2937;
+
   color: white;
   font-size: 30px;
 }
 .bod {
   padding: 60px;
   text-align: center;
-  background: #3772f1;
+
   color: white;
   font-size: 30px;
+}
+body {
+  background-image: linear-gradient(#9945ff, #14f195);
 }
